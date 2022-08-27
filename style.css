@@ -1,12 +1,13 @@
 body{background-color: lightgrey;}
 
+
+h1{color: black;
+    font-size: 50;
+    font-family: 'Courier New', Courier, monospace;}
 /* clase*/
-<head>
-    <style>
-        .titular{color: grey;
+
+.titular{color: grey;
         font-size: 50;
         font-family: 'Courier New', Courier, monospace;}
-    </style>
-</head>
 
 
