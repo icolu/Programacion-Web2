@@ -6,8 +6,9 @@ h1{color: black;
     font-family: 'Courier New', Courier, monospace;}
 /* clase*/
 
-.titular{color: grey;
+.titular{color: black;
         font-size: 200;
-        font-family: 'Courier New', Courier, monospace;}
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;}
 
 
