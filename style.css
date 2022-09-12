@@ -1,7 +1,7 @@
 body{background-color: lightgrey;}
 
 
-h1{color: black;
+.tit{color: black;
     font-size: 2.1rem;
     line-height: 1.4;
     letter-spacing: 0.25rem;
@@ -40,4 +40,5 @@ h1{color: black;
                 75%{background-image:url(https://mendozaholidays.com/includes/timthumb.php?src=uploads/tour/th1_1610385566_ml_catena-zapata-mendoza-holidays.jpg&w=1600&h=580) ;}
 
         }
+
 
