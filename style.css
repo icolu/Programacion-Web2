@@ -1,13 +1,13 @@
 body{
         background-color: black;
 }
-.tit{color: black;
+.tit{color: white;
     font-size: 2.1rem;
     line-height: 1.4;
     letter-spacing: 0.25rem;
     text-align: center;
     margin-top: 50px;
-    font-family: 'Courier New', Courier, monospace;}
+    font-family: 'Verdana';}
 /* clase*/
 
 .titular{color: black;
