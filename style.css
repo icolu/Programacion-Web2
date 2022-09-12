@@ -27,7 +27,7 @@ body{background-color: lightgrey;}
         position: absolute;
         left: 50%;
         top:50%;
-        transform: (-50%, -50%);
+        transform: translate(-50%, -50%);
         background-image: url(https://blog.winesofargentina.com/wp-content/uploads/2021/11/Claroscuro-1ok-1024x769.jpg);
         background-size: 100% 100%;
         box-shadow: 1px 2px 10px 5px white;
