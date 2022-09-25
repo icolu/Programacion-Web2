@@ -43,6 +43,6 @@ body{
         }
 
 .ecom{
-        position:relative;
+        position:absolute;
         top: 30%;
 }
