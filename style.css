@@ -24,7 +24,7 @@ body{
 .maindiv{
         width: 70%;
         height:400px;
-        position: absolute;
+        position: relative;
         left: 50%;
         top:50%;
         transform: translate(-50%, -50%);
