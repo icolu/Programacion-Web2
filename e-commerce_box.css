@@ -12,9 +12,9 @@ a{
     box-shadow: 2px 2px 30px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     overflow: hidden;
-    position: relative;
-    left: 50%;
-    top: 50%;
+    position: absolute;
+    /*left: 50%;*/
+    top: 100%;
     transform: translate(-50%,-50%); 
     margin: 25px ;
 }
