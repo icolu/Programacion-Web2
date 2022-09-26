@@ -9,7 +9,7 @@
     border: 1px solid #fff;
     position: fixed;
     z-index: 999;
-    border-radius: 50%;
+    border-radius: 25%;
     bottom: 20px;
     right: 25px;
     padding: 25px;
@@ -23,7 +23,7 @@
 }
 
 .boton{
-    width: 5%;
+    width: 0.5%;
     transition: ease 1s;
 }
 
