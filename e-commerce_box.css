@@ -122,4 +122,10 @@ a{
         {width: 120px}
  }
 
+ @media screen and (max-width:480px){
+    .detail-box
+
+    {width: 40px}
+}
+
 
