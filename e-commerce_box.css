@@ -26,14 +26,14 @@ a{
 }
 
 .slide-img img{
-    width: 100%;
+    width: 500px;
     height: 100%;
     object-fit: cover;
     box-sizing: border-box;
 }
 
 .detail-box{
-    width: 100%;
+    width: 600px;
     display: flex;
     justify-content: space-between;
     align-items: center;
