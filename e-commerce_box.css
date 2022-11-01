@@ -117,8 +117,8 @@ a{
     }}
 
     @media screen and (max-width:480px){
-        .box,
-        .detail-box
+        .box
+    
         {width: 120px}
  }
 
