@@ -123,7 +123,8 @@ a{
  }
 
  @media screen and (max-width:480px){
-    .detail-box
+    .type a,
+    .type span
 
     {width: 40px}
 }
