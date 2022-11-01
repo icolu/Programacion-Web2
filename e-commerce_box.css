@@ -124,7 +124,7 @@ a{
 
  @media screen and (max-width:480px){
     .type
-    {width: 40px}
+    {width: 1px}
 }
 @media screen and (max-width:480px){
     .price
