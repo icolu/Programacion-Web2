@@ -118,5 +118,6 @@ a{
 
     @media screen and (max-width:480px){
         .box
-        {width: 120px}
+        .detail-box
+        {width: 40%}
  }
