@@ -115,3 +115,8 @@ a{
     100%{
         opacity: 1;
     }}
+
+    @media screen and (max-width:480px){
+        .box
+        {width: 120}
+ }
