@@ -115,20 +115,15 @@ a{
     100%{
         opacity: 1;
     }}
-
-    @media screen and (max-width:480px){
-        .box
-    
-        {width: 120px}
- }
-
- @media screen and (max-width:480px){
-    .type
-    {width: 1px}
+@media screen and (max-width:480px){
+    .box
+    {width: 120px}
 }
+   
+
 @media screen and (max-width:480px){
     .price
-    {position:relative}
+    {width: 1px}
 }
 
 
