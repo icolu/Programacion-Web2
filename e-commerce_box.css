@@ -126,5 +126,9 @@ a{
     .type
     {width: 40px}
 }
+@media screen and (max-width:480px){
+    .type a
+    {width: 40px}
+}
 
 
