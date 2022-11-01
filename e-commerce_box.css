@@ -127,8 +127,8 @@ a{
     {width: 40px}
 }
 @media screen and (max-width:480px){
-    .type a
-    {width: 1px}
+    .price
+    {position:relative}
 }
 
 
