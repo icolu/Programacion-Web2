@@ -116,3 +116,20 @@ a{
         opacity: 1;
     }
 }
+
+@media screen and (max-width: 500px) {
+  
+    .box,
+    .slide-img,
+    .slide-img img,
+    .detail-box,
+    .type,
+    .type a,
+    .type span,
+    .price,
+    .overlay,
+    .buy-btn:hover,
+    .slide-img:hover .overlay
+     {
+        width: 70%;
+    }}
