@@ -61,13 +61,13 @@
 								<a  class="buy-btn">Comprar</a>
 								</div>
 							</div>
-							<div class="detail-box">
+							<div class="detail-box" onload="agarrar_precio(https://www.growlerstore.com.ar/MLA-1122647943-vino-rutini-antologia-xxxviii-750ml-_JM#position=5&search_layout=grid&type=item&tracking_id=031071f2-c293-406d-a7d7-9dffce0ce9e9)">
 								<div class="type">
 								<a href="#">Rutini</a>
 								<span>Antología</span>
 								</div>
-								<a href="#" class="price"> agarrar_precio("https://www.growlerstore.com.ar/MLA-1122647943-vino-rutini-antologia-xxxviii-750ml-_JM#position=5&search_layout=grid&type=item&tracking_id=031071f2-c293-406d-a7d7-9dffce0ce9e9")</a>
-								<script type="text/javascript" src="funciones.js"></script>
+								<a href="#" class="price"> precio_final</a>
+								
 							</div>
 							</div>
 						</li>
@@ -140,6 +140,22 @@
 							</div>
 						</li>
 					</ul>
+				<script>
+					function agarrar_precio(url){
+						var req = new XMLHttpRequest();
+						req.overrideMimeType("application/json");
+						req.open('GET', url, true);
+						req.onload  = function() {
+							var precio = document.getElementsByClassName("andes-money-amount__fraction")[0].textContent
+							console.log('$'+ precio)
+							var precio_final= '$'+ precio
+							return precio_final
+							};
+						return precio_final
+						}
+					</script>
+						
+						
 </div>
 		
 		<section class="container content-section">
@@ -165,6 +181,7 @@
 			
 	</main>
 <style type="text/css">
+
 
 </style>
 
