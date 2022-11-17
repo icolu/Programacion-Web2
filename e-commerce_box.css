@@ -24,6 +24,7 @@ a{
 .slide-img{
     height: 450px;
     position: relative;
+    display:flex
 }
 
 .slide-img img{
