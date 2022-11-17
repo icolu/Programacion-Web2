@@ -76,7 +76,7 @@
     margin: 10px 0 0;
     padding: 0;
     text-align: center;
-	display: none;
+	display: flex;
 	
 }
 .lSSlideOuter .lSPager.lSpg > li {
