@@ -50,7 +50,7 @@
     left: 0;
     z-index: 9;
     margin-right: 0;
-    width: 100%;
+    width: 80%;
 }
 .lSSlideWrapper.usingCss .lSFade > * {
     opacity: 0;
