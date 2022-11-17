@@ -14,8 +14,8 @@
 
 </head>
 
-<body>
-	
+<body onload="agarrar_precio('https://www.growlerstore.com.ar/MLA-1122850658-vino-proyecto-las-compuertas-malbec-750ml-_JM#position=1&search_layout=stack&type=item&tracking_id=1178c2d5-70a7-49e9-bf27-035e78b58f82')">
+	<h2 id="prueba2"> </h2>
 	<div class="container-boton">
 		<a href="https://api.whatsapp.com/send?phone=1134507060" target="_blank">
 		<img class="boton" src="WhatsApp.png" alt="" >
@@ -27,7 +27,7 @@
 
 
 	<main>
-	
+		
 		
 			<div class="maindiv"></div>
 
@@ -67,9 +67,7 @@
 								<span>Antología</span>
 								</div>
 								
-								<a href="#" class="price"><script>
-									document.write(agarrar_precio('https://www.growlerstore.com.ar/MLA-1122647943-vino-rutini-antologia-xxxviii-750ml-_JM#position=5&search_layout=grid&type=item&tracking_id=031071f2-c293-406d-a7d7-9dffce0ce9e9'))
-									</script>  </a>
+								<a id="prueba" href="#" class="price" onload="">  </a>
 								
 							</div>
 							</div>
@@ -143,7 +141,8 @@
 							</div>
 						</li>
 					</ul>
-				<script>
+				<!--script>
+					
 					function agarrar_precio(url){
 						var req = new XMLHttpRequest();
 						req.overrideMimeType("application/json");
@@ -156,7 +155,7 @@
 							};
 						return precio_final
 						}
-					</script>
+					</script--->
 						
 						
 </div>
