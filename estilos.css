@@ -4,12 +4,7 @@
 }
 */
 
-.banner{
-    /* The image used */
-    display: flex;
-    align-items: center;
-    background-color:black;
-}
+
 .container-boton{
     background-color: #2e6329;
     border: 1px solid #fff;
