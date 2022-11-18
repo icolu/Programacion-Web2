@@ -8,7 +8,7 @@
     /* The image used */
     display: flex;
     align-items: center;
-    background-image:url(https://mendozaholidays.com/includes/timthumb.php?src=uploads/tour/th1_1610385566_ml_catena-zapata-mendoza-holidays.jpg&w=1600&h=580);
+    background-color:black;
 }
 .container-boton{
     background-color: #2e6329;
