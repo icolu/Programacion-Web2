@@ -88,7 +88,7 @@ content h1:hover{
 
 @media(max-aspect-ratio: 16/9){
     .content h1{
-        font-size: 10px;
+        font-size: 80px;
     }
 }
 
