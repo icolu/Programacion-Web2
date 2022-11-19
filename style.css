@@ -68,6 +68,7 @@ nav ul li a{
     font-size: 160px;
     color: #fff;
     font-weight: 600;
+    transition: 0.5s;
 }
 .content a{
     text-decoration: none;
