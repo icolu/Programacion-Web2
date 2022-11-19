@@ -40,6 +40,24 @@ nav{
     justify-content: space-between;
 }
 
+.content{
+    text-align: center;
+}
+.content{font-size: 160px;
+        color: black;
+        font-weight: 600;
+}
+.content a{
+    text-decoration: none;
+    color:black;
+    display: inline-block;
+    font-size:24px ;
+    border:2px solid black;
+    padding: 14px 70px;
+    border-radius: 50px;
+    margin-top:20px;
+}
+
 nav .logo{
     width:80px;
 }
