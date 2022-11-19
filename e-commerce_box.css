@@ -85,13 +85,13 @@ a{
 }
 @media(max-aspect-ratio: 16/9){
     .price{
-        font-size: 10px;
+        font-size: 8px;
     }
 }
 
 @media(max-aspect-ratio: 16/9){
     .type span{
-        font-size: 10px;
+        font-size: 7px;
     }
 }
 
@@ -146,6 +146,6 @@ a{
     }}
 @media screen and (max-width:480px){
     .box
-    {width: 120px}
+    {width: 140px}
 }
 
