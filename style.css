@@ -30,8 +30,9 @@ nav .logo{
 }
 
 nav ul li{
-    list-style: none;
-    display: inline-block;
+    list-style:true;
+    display: inline-flex;
+    width:auto;
     margin-left:1%;
 }
 nav ul li a{
