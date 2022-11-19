@@ -59,7 +59,7 @@ nav ul li a{
         width: auto;
         height: 100%;
     }
-    nav ul li a{
+    nav ul li{
         margin-right: 5px;
     }
 }
