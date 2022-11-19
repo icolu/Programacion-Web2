@@ -84,7 +84,7 @@ a{
     }
 }
 
-@media(max-aspect-ratio: 480px){
+@media(max-aspect-ratio: 300px){
     .type a{
         font-size:10px;
     }
