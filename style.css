@@ -59,7 +59,7 @@ nav ul li a{
 .content{
     text-align: center;
 }
-.content{font-size: 160px;
+.content h1{font-size: 160px;
         color: #fff;
         font-weight: 600;
 }
