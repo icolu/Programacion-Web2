@@ -30,7 +30,8 @@ nav .logo{
 }
 
 nav ul li{
-    list-style:true;
+    list-style:none;
+    list-style-position: inside;
     display: inline-flex;
     width:auto;
     margin-left:1%;
