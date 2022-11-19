@@ -63,7 +63,6 @@ a{
     font-weight: 700;
     letter-spacing: 0.5px;
     padding-right: 8px;
-
 }
 
 
@@ -80,6 +79,9 @@ a{
 }
 
 @media(max-aspect-ratio: 16/9){
+    .type a{
+        font-size:15px;
+    }
     .price{
         font-size: 10px;
     }
