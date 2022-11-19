@@ -35,6 +35,7 @@ nav ul li{
     display: inline-block;
     width:auto;
     margin-left:40px;
+    padding: 1%;
 }
 nav ul li a{
     list-style: none;
