@@ -30,7 +30,7 @@ body{
     justify-content: center;
 }
 nav{
-    width: 100%;
+    width: 80%;
     position:absolute;
     top: 0;
     left: 0;
@@ -47,7 +47,7 @@ nav .logo{
 nav ul li{
     list-style: none;
     display: inline-block;
-    margin-left: 40px;
+    margin-left:1%;
 }
 nav ul li a{
     text-decoration:none;
