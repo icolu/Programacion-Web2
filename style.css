@@ -40,23 +40,6 @@ nav{
     justify-content: space-between;
 }
 
-.content{
-    text-align: center;
-}
-.content{font-size: 160px;
-        color: black;
-        font-weight: 600;
-}
-.content a{
-    text-decoration: none;
-    color:black;
-    display: inline-block;
-    font-size:24px ;
-    border:2px solid black;
-    padding: 14px 70px;
-    border-radius: 50px;
-    margin-top:20px;
-}
 
 nav .logo{
     width:80px;
@@ -72,7 +55,25 @@ nav ul li a{
     color: black;
     font-size: 17px;
 }
- 
+
+.content{
+    text-align: center;
+}
+.content{font-size: 160px;
+        color: #fff;
+        font-weight: 600;
+}
+.content a{
+    text-decoration: none;
+    display: inline-block;
+    color:#fff;
+    font-size:24px ;
+    border:2px solid #fff;
+    padding: 14px 70px;
+    border-radius: 50px;
+    margin-top:20px;
+}
+
 .banner{
     /* The image used */
     background-color:black;
