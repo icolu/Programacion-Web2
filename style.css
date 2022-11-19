@@ -59,6 +59,9 @@ nav ul li a{
         width: auto;
         height: 100%;
     }
+    .content{
+        font-size: 60px;
+    }
 }
 
 .content{
