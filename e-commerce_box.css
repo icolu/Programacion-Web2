@@ -79,6 +79,12 @@ a{
     display:flex
 }
 
+@media(max-aspect-ratio: 16/9){
+    .price{
+        font-size: 3px;
+    }
+}
+
 .overlay{
     position: absolute;
     left: 50%;
