@@ -118,6 +118,7 @@ content h1:hover{
     background-color: #202020;
     color:#fff;
     padding: 10px 20px;
+    text-align: center;
 }
 
 .testimonial-heading span{
@@ -169,6 +170,17 @@ content h1:hover{
     letter-spacing: 0.5px;
 }
 
+.name-user span{
+    color:#979797;
+    font-size: 0.8rem;
+}
+.reviews{
+    color: #f9d71c;
+}
+.box-top{
+    display: flex;
+    justify-content: space-between;
+}
 
 .tit{color: black;
     font-size: 2.1rem;
