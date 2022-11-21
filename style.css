@@ -255,6 +255,7 @@ content h1:hover{
 }
 
 .cart-header {
+    font-family: sans-serif;
     text-align: center;
     justify-content: center;
     font-weight: bold;
