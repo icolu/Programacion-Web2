@@ -254,6 +254,7 @@ content h1:hover{
         font-weight: bold;
         font-size: 1.25em;
         color: #333;
+        text-align: center;
     }
     
     .cart-column {
