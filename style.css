@@ -251,10 +251,12 @@ content h1:hover{
 }
 
 .cart-header {
-        font-weight: bold;
-        font-size: 1.25em;
-        color: #333;
-        text-align: center;
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 1.25em;
+    color: #333;
+
     }
     
     .cart-column {
