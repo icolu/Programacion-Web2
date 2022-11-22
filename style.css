@@ -261,9 +261,9 @@ content h1:hover{
         }
         @keyframes slider{
 
-            20%{background-image: url("vino6.jpeg");}
-            60%{background-image: url("vino9.jpeg");}
-            80%{background-image: url("vino13.jpeg");}
+            0%{background-image: url("vino6.jpeg");}
+            35%{background-image: url("vino9.jpeg");}
+            75%{background-image: url("vino13.jpeg");}
             
         }
 
