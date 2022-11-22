@@ -234,7 +234,7 @@ content h1:hover{
         top:80%;
         transform: translate(-50%, -50%);
         text-align: center;*/
-        background-image: url("vino.png") ;
+        background-image: url("vino7.png") ;
         background-size: 100% 100%;
         box-shadow: 1px 2px 10px 5px white;
         animation: slider 20s infinite linear;
