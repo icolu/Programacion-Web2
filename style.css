@@ -254,6 +254,11 @@ content h1:hover{
 
         }
 
+@media(min-aspect-ratio: 16/9){
+        .maindiv{
+            background-size: 40% 40%;
+        }
+    }
 .ecom{
         position:relative;
 
