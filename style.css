@@ -242,13 +242,13 @@ content h1:hover{
 
         @keyframes slider{
 
-                20%{background-image:url("vino11.jpeg") ;}
-                30%{background-image: url("vino19.jpeg");}
-                40%{background-image:url("vino8.jpeg") ;}
-                50%{background-image:url("vino2.jpeg") ;}
-                60%{background-image: url("vino3.jpeg");}
-                70%{background-image:url("vino4.jpeg") ;}
-                80%{background-image:url("vino5.jpeg") ;}
+                15%{background-image:url("vino11.jpeg") ;}
+                15%{background-image: url("vino19.jpeg");}
+                12%{background-image:url("vino8.jpeg") ;}
+                12%{background-image:url("vino2.jpeg") ;}
+                12%{background-image: url("vino3.jpeg");}
+                12%{background-image:url("vino4.jpeg") ;}
+                12%{background-image:url("vino5.jpeg") ;}
                
 
         }
