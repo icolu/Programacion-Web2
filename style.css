@@ -234,7 +234,7 @@ content h1:hover{
         top:80%;
         transform: translate(-50%, -50%);
         text-align: center;*/
-        background-image: url("vino7.jpeg") ;
+        background-image: url("Vino1.jpeg") ;
         background-size: 100% 100%;
         box-shadow: 1px 2px 10px 5px white;
         animation: slider 20s infinite linear;
@@ -249,22 +249,22 @@ content h1:hover{
                 80%{background-image: url("vino3.jpeg");}
                 90%{background-image:url("vino4.jpeg") ;}
                 100%{background-image:url("vino5.jpeg") ;}
-               
+                5%{background-image:url("vino7.jpeg") ;}
+                10%{background-image:url("vino12.jpeg") ;}
 
         }
 
 @media(min-aspect-ratio: 16/9){
         .maindiv{
-            width: 50%;
+            width: 60%;
             height: 800px;
         }
         @keyframes slider{
 
-            0%{background-image: url(https://blog.winesofargentina.com/wp-content/uploads/2021/08/MEET-THE-WINERIES-Finca-Sophenia_interior3.jpg);}
-            20%{background-image:url(https://www.cristobal.com.ar/media/wysiwyg/Bodegas/Bodega-Cinco-Sentidos.jpg) ;}
-            40%{background-image: url("vino6.jpeg");}
+            20%{background-image: url("vino6.jpeg");}
             60%{background-image: url("vino9.jpeg");}
             80%{background-image: url("Vino1.jpeg");}
+            100%{background-image: url("vino13.jpeg");}
             
         }
 
