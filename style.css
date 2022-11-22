@@ -53,7 +53,6 @@ nav ul li a{
 
 .back-video{
     position: absolute;
-    left: 0;
     right: 0;
     bottom: 0;
     z-index: -1;
@@ -61,7 +60,7 @@ nav ul li a{
 
 @media(max-aspect-ratio: 16/9){
     .back-video{
-        width: 100%;
+        width: auto;
         height: 100%;
     }
     nav ul li{
