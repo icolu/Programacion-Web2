@@ -8,11 +8,11 @@ main{
 
 
 .hero{
-    width:100%;
+    width:98%;
     height: 100vh;
     background-image: linear-gradient(rgba(12,3,51,0.3),rgba(12,3,51,0.3));
     position: relative;
-    padding: 0;
+    padding: 1%;
     display:flex;
     align-items: center;
     justify-content: center;
