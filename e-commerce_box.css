@@ -77,6 +77,24 @@ a{
     letter-spacing: 0.5px;
     display:flex
 }
+@media (min-aspect-ratio: 481px) {
+    .type a{
+        font-size:15px;
+    }
+}
+
+@media (min-aspect-ratio: 481px) {
+    .price{
+        font-size: 8px;
+    }
+}
+
+@media (min-aspect-ratio: 481px) {
+    .type span{
+        font-size: 7px;
+    }
+}
+
 
 @media(max-aspect-ratio: 480px){
     .type a{
@@ -90,29 +108,12 @@ a{
     }
 }
 
-@media(max-aspect-ratio: 480px){
+@media(max-aspect-ratio: 480px  ){
     .type span{
         font-size: 7px;
     }
 }
 
-@media (min-aspect-ratio: 481px) and (max-aspect-ratio: 16/9){
-    .type a{
-        font-size:15px;
-    }
-}
-
-@media (min-aspect-ratio: 481px) and (max-aspect-ratio: 16/9){
-    .price{
-        font-size: 8px;
-    }
-}
-
-@media (min-aspect-ratio: 481px) and (max-aspect-ratio: 16/9){
-    .type span{
-        font-size: 7px;
-    }
-}
 
 
 
