@@ -115,7 +115,7 @@ a{
     }
 }
 
-@media(max-aspect-ratio: 3/2){
+@media(max-aspect-ratio: 479px){
     .type a{
         font-size:10px;
     }
