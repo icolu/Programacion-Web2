@@ -78,19 +78,19 @@ a{
     display:flex
 }
 
-@media(max-aspect-ratio: 3/2){
+@media(max-aspect-ratio: 500px){
     .type a{
         font-size:14px;
     }
 }
 
-@media(max-aspect-ratio: 3/2){
+@media(max-aspect-ratio: 500px){
     .price{
         font-size:10px;
     }
 }
 
-@media(max-aspect-ratio: 3/2){
+@media(max-aspect-ratio: 500px){
     .span{
         font-size:10px;
     }
