@@ -115,19 +115,19 @@ a{
     }
 }
 
-@media(max-aspect-ratio: 950px){
+@media(max-aspect-ratio: 4/3){
     .type a{
         font-size:18px;
     }
 }
 
-@media(max-aspect-ratio: 950px){
+@media(max-aspect-ratio: 4/3){
     .price{
         font-size: 12px;
     }
 }
 
-@media(max-aspect-ratio: 950px ){
+@media(max-aspect-ratio: 4/3){
     .type span{
         font-size: 11px;
     }
