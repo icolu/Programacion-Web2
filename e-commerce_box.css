@@ -115,6 +115,13 @@ a{
     }
 }
 
+@media(max-aspect-ratio: 3/2){
+    .type a{
+        font-size:10px;
+    }
+}
+
+
 
 
 
