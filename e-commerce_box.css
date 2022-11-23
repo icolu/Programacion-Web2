@@ -77,38 +77,38 @@ a{
     letter-spacing: 0.5px;
     display:flex
 }
-@media (min-aspect-ratio: 481px) {
+@media (min-aspect-ratio: 16/9) {
     .type a{
         font-size:15px;
     }
 }
 
-@media (min-aspect-ratio: 481px) {
+@media (min-aspect-ratio: 16/9) {
     .price{
         font-size: 8px;
     }
 }
 
-@media (min-aspect-ratio: 481px) {
+@media (min-aspect-ratio: 16/9) {
     .type span{
         font-size: 7px;
     }
 }
 
 
-@media(max-aspect-ratio: 480px){
+@media(max-aspect-ratio: 16/9){
     .type a{
         font-size:15px;
     }
 }
 
-@media(max-aspect-ratio: 480px){
+@media(max-aspect-ratio: 16/9){
     .price{
         font-size: 8px;
     }
 }
 
-@media(max-aspect-ratio: 480px  ){
+@media(max-aspect-ratio: 16/9 ){
     .type span{
         font-size: 7px;
     }
