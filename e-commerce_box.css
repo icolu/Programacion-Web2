@@ -96,12 +96,6 @@ a{
     }
 }
 
-@media(max-aspect-ratio: 20/9){
-    .type a{
-        font-size:10px;
-    }
-}
-
 
 @media(max-aspect-ratio: 3/2){
     .type a{
