@@ -103,19 +103,19 @@ a{
 }
 
 
-@media(max-aspect-ratio: 24/16){
+@media(max-aspect-ratio: 23/16){
     .type a{
         font-size:14px;
     }
 }
 
-@media(max-aspect-ratio: 24/16){
+@media(max-aspect-ratio: 23/16){
     .price{
         font-size:10px;
     }
 }
 
-@media(max-aspect-ratio: 24/16){
+@media(max-aspect-ratio: 23/16){
     .span{
         font-size:10px;
     }
