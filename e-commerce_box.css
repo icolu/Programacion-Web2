@@ -78,7 +78,7 @@ a{
     display:flex
 }
 
-@media (min-aspect-ratio: 16/9) {
+/* @media (min-aspect-ratio: 16/9) {
     .type a{
         font-size:15px;
     }
@@ -94,7 +94,7 @@ a{
     .type span{
         font-size: 9px;
     }
-} 
+}  */
 
 
 @media(max-aspect-ratio: 16/9){
